@@ -1,0 +1,11 @@
+D:\temp\0628Project\0628Project\bin\Debug\0628Project.exe.config
+D:\temp\0628Project\0628Project\bin\Debug\0628Project.exe
+D:\temp\0628Project\0628Project\bin\Debug\0628Project.pdb
+D:\temp\0628Project\0628Project\obj\Debug\0628Project.csprojAssemblyReference.cache
+D:\temp\0628Project\0628Project\obj\Debug\_0628Project.Properties.Resources.resources
+D:\temp\0628Project\0628Project\obj\Debug\0628Project.csproj.GenerateResource.cache
+D:\temp\0628Project\0628Project\obj\Debug\0628Project.csproj.CoreCompileInputs.cache
+D:\temp\0628Project\0628Project\obj\Debug\0628Project.exe
+D:\temp\0628Project\0628Project\obj\Debug\0628Project.pdb
+D:\temp\0628Project\0628Project\obj\Debug\_0628Project.clickmouse.resources
+D:\temp\0628Project\0628Project\obj\Debug\_0628Project.inputbox.resources
